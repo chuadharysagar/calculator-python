@@ -28,5 +28,8 @@ pip install wxPython
 - CalculatorApp: This class initializes the calculator frame and runs the application loop.
 
 ## Screenshot
-<img src="https://github.com/chuadharysagar/calculator-python/blob/main/calculator.jpeg" alt="Calculator image" width="300"/>
+<div style= "display:flex;">
+      <img  style="margin-right:20px" src="https://github.com/chuadharysagar/calculator-python/blob/main/calculatorop-1.png" alt="Calculator image" width="300"/>
+      <img src="https://github.com/chuadharysagar/calculator-python/blob/main/calculatorop-2.png" alt="Calculator image" width="300"/>
+</div>
 
